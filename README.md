@@ -10,19 +10,9 @@
 <a href="https://gitpod.io/#https://github.com/Baneeishaque/gitpod-workspace-full-vnc-1366x768-tint2-pcmanfm-zsh-android-studio-gh"><img src="https://icons-for-free.com/iconfiles/png/512/gitpod-1324440164066425542.png" alt="Gitpod IDE" width="100" height="100"></a>
 <a href="https://github1s.com/Baneeishaque/gitpod-workspace-full-vnc-1366x768-tint2-pcmanfm-zsh-android-studio-gh"><img src="https://raw.githubusercontent.com/conwnet/github1s/master/resources/images/logo.svg" alt="Github1s Editor" width="100" height="100"></a>
 
-## Tools
-### &nbsp;&nbsp; - PCMan File Manager : 1.3.1-1
+### Base Image : [baneeishaque/gitpod-workspace-full-vnc-1366x768-tint2-pcmanfm-zsh-android-studio](https://hub.docker.com/repository/docker/baneeishaque/gitpod-workspace-full-vnc-1366x768-tint2-pcmanfm-zsh-android-studio)  
 
-### &nbsp;&nbsp; - ZSH : 5.8-3
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Oh My ZSH : 706b2f3
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Git
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Gradle
-
-### &nbsp;&nbsp; - Android Studio
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Android SDK : 30
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Stable : 4.2
-
+## Additional Tools
 ### &nbsp;&nbsp; - GitHub CLI : 1.11.0
 
-## Misc. Tools
-### &nbsp;&nbsp; - Tint 2 : 16.7-1
+[//]: # "[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Baneeishaque/gitpod-workspace-full-vnc-1366x768-tint2-pcmanfm-zsh-android-studio-gh)"
