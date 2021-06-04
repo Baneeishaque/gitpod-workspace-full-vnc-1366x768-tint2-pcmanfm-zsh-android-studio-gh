@@ -7,7 +7,7 @@
             "command": "docker",
             "isBackground": false,
             "options": {
-                "cwd": "${fileWorkspaceFolder}"
+                "cwd": "${workspaceFolder}"
             },
             "args": [
                 "build",
@@ -39,7 +39,7 @@
             "command": "docker",
             "isBackground": false,
             "options": {
-                "cwd": "${fileWorkspaceFolder}"
+                "cwd": "${workspaceFolder}"
             },
             "args": [
                 "run",
@@ -101,7 +101,7 @@
             "command": "docker",
             "isBackground": false,
             "options": {
-                "cwd": "${fileWorkspaceFolder}"
+                "cwd": "${workspaceFolder}"
             },
             "args": [
                 "push",

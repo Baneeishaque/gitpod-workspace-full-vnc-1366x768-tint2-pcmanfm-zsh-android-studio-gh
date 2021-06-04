@@ -11,14 +11,15 @@
 <a href="https://github1s.com/Baneeishaque/gitpod-workspace-full-vnc-1366x768-tint2-pcmanfm-zsh-android-studio-gh"><img src="https://raw.githubusercontent.com/conwnet/github1s/master/resources/images/logo.svg" alt="Github1s Editor" width="100" height="100"></a>
 
 ## Tools
-### &nbsp;&nbsp;&nbsp;&nbsp; - PCMan File Manager : 1.3.1  
+### &nbsp;&nbsp;&nbsp;&nbsp; - PCMan File Manager : 1.3.1-1
 
-### &nbsp;&nbsp;&nbsp;&nbsp; - ZSH : 5.8  
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Oh My ZSH : 95a06f3  
+### &nbsp;&nbsp;&nbsp;&nbsp; - ZSH : 5.8-3
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Oh My ZSH : 706b2f3
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Git
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Gradle
 
-### &nbsp;&nbsp;&nbsp;&nbsp; - Android Studio (Stable) : 4.1.2  
-### &nbsp;&nbsp;&nbsp;&nbsp; - GitHub CLI : 1.7.0
+### &nbsp;&nbsp;&nbsp;&nbsp; - Android Studio (Stable) : 4.1.2
+### &nbsp;&nbsp;&nbsp;&nbsp; - GitHub CLI : 1.11.0
+
 ## Misc. Tools
-### &nbsp;&nbsp;&nbsp;&nbsp; - Tint 2 : 16.7  
+### &nbsp;&nbsp;&nbsp;&nbsp; - Tint 2 : 16.7-1
