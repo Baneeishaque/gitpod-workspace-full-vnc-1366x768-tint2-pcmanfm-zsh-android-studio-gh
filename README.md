@@ -18,7 +18,10 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Git
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Gradle
 
-### &nbsp;&nbsp; - Android Studio (Stable) : 4.2
+### &nbsp;&nbsp; - Android Studio
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Android SDK : 30
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Stable : 4.2
+
 ### &nbsp;&nbsp; - GitHub CLI : 1.11.0
 
 ## Misc. Tools
